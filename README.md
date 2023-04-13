@@ -37,8 +37,6 @@ Year: 2023
     - All posts by default
     - Display applied filters
 - ********************Guesetbook (Optional)********************
-    
-    
 
 ### Features
 
