@@ -1,7 +1,7 @@
 import React from 'react';
 
-function tag() {
-  return <div>tag</div>;
+function Tag() {
+  return <div>Tag</div>;
 }
 
-export default tag;
+export default Tag;
