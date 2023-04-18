@@ -19,7 +19,7 @@ function Navbar() {
     return (
         <nav className="flex justify-between">
             <Logo />
-            <ul className="flex">
+            <ul className="flex gap-4">
                 {Object.entries(navItems).map(([path, { name }]) => {
                     // const isActive = path === pathname;
                     return (
